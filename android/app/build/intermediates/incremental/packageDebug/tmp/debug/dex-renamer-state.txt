@@ -1,0 +1,4 @@
+#Fri Jun 29 11:46:23 CEST 2018
+base.0=C\:\\Users\\Agent 28\\Desktop\\git2\\Final Project\\app2\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
