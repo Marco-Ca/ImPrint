@@ -4,12 +4,6 @@ const cors = require("cors")({ origin: true });
 const fs = require("fs");
 const UUID = require("uuid-v4");
 
-const gcconfig = {
-  // projectId: "awesome-places-YOUR_PROJECT_ID"
-  projectId: "imprint-1530016185397",
-  keyFilename: "imprint.json"
-};
-
 const gcs = require("@google-cloud/storage")(gcconfig);
 
 admin.initializeApp({
