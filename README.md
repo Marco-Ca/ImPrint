@@ -17,11 +17,11 @@ Technologies used:
 
 ### Demo
 <p align="center">
-<img src="gifs/imprint1.gif"/>
+<img src="gifs/imprint1.gif" width="320px" height="480px"/>
 <br/>
 <br/>
-<img src="gifs/imprint2.gif"/>
+<img src="gifs/imprint2.gif" width="320px" height="480px"/>
 <br/>
 <br/>
-<img src="gifs/imprint3.gif"/>
+<img src="gifs/imprint3.gif" width="320px" height="480px"/>
 </p>
