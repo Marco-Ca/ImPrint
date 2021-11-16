@@ -27,4 +27,4 @@ Technologies used:
 </p>
 
 ### Screenshot
-![Screenshot 2021-11-16 at 14 10 53](https://user-images.githubusercontent.com/60215344/141983140-630b2de5-cada-4d6e-b5fc-8ac9cc312944.png)
+![Screenshot 2021-11-16 at 14 13 23](https://user-images.githubusercontent.com/60215344/141983464-38298685-df72-4da4-95c0-14ce9229ec7f.png)
