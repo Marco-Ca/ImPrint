@@ -25,3 +25,6 @@ Technologies used:
 <br/>
 <img src="gifs/imprint3.gif" width="320px" height="480px"/>
 </p>
+
+### Screenshot
+![Screenshot 2021-11-16 at 14 10 53](https://user-images.githubusercontent.com/60215344/141983140-630b2de5-cada-4d6e-b5fc-8ac9cc312944.png)
